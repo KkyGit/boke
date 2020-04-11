@@ -23,7 +23,7 @@ custom_file_path:
   postMeta: source/_data/post-meta.swig
   postBodyEnd: source/_data/post-body-end.swig
   footer: source/_data/footer.swig
-  bodyEnd: source/_data/body-end.swig
+  #bodyEnd: source/_data/body-end.swig
   variable: source/_data/variables.styl
   #mixin: source/_data/mixins.styl
   style: source/_data/styles.styl
@@ -93,7 +93,7 @@ menu:
   archives: /archives/ || fa fa-archive
   about: /about/ || fa fa-user
   message: /message/ || fa fa-comments
-  links: /links/ || fa fa-user-plus
+  #links: /links/ || fa fa-user-plus
 
 # 是否显示菜单的图标和计数
 menu_settings:
